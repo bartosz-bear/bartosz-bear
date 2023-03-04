@@ -3,6 +3,16 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008F11&size=32&repeat=false&duration=4000&width=1500&lines=I+am+Bartosz+Piechnik,+Python+and+SQL+Data+Developer.;)](https://git.io/typing-svg)
 
+## ⚡ Profile
+
+Over the years I've developed several data-centric applications for extracting, transforming, loading and visualising mostly financial information. I'm a generalist with a broad range of technologies in my belt with a strong core in Python, SQL and data. I've worked in many different countries (Poland, Switzerland, China, US, UK).
+
+My philosophy and mindset resolves around the following concepts:
+
+- prioritizing pragmatic 'get it done' attitude over technological dogmatism
+- tackling hard and undesired tasks will make you a better programmer
+- standing on the giants' shoulders instead of reinventing the wheel to satisfy your ego
+
 ## ⚡ Core Technology
 
 <div align="center">
