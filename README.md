@@ -66,5 +66,12 @@ My philosophy and mindset revolves around the following concepts:
 
 ## 📤 Projects
 
+- Prototype of Excel Add-In which allows users on two separate machines to share, transforma and automate data sharing directly within Excel suite (`python`, `c#`)
+- Multiple ETL and automation scripts for financial reporting (`python`, `sql`, `pandas`)
+- Django-based application for visualisation of financial reports (`python`, `django`, `javascript`, `d3.js`)
+- Migration of `VBA` financial reporting scripts to `python`
+- Django-based application for scraping, storing and visualisation of multi-source data (`python`, `django`, `postgreSQL`, `BeautifulSoup`)
 
+## 🏫 Courses and Workshops
 
+- Python for Data Science and Machine Learning Bootcamp (![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=Plastic&logo=Udemy&logoColor=white))
