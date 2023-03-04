@@ -5,13 +5,13 @@
 
 ## ⚡ Profile
 
-Over the years I've developed several data-centric applications for extracting, transforming, loading and visualising mostly financial information. I'm a generalist with a broad range of technologies in my belt with a strong core in Python, SQL and data. I've worked in many different countries (Poland, Switzerland, China, US, UK).
+Over the years I've developed several data-centric applications for extracting, transforming, loading and visualising mostly financial information. I'm a generalist with a broad range of technologies under my belt with a strong core in Python, SQL and data. I've worked in many different countries (Poland, Switzerland, China, US, UK) and I have excellent communication and presentaion skills.
 
-My philosophy and mindset resolves around the following concepts:
+My philosophy and mindset revolves around the following concepts:
 
 - prioritizing pragmatic 'get it done' attitude over technological dogmatism
-- tackling hard and undesired tasks will make you a better programmer
 - standing on the giants' shoulders instead of reinventing the wheel to satisfy your ego
+- tackling hard and undesired tasks will make you a better programmer
 
 ## ⚡ Core Technology
 
