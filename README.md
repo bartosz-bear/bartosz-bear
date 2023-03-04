@@ -5,7 +5,7 @@
 
 ## ⚡ Profile
 
-Over the years I've developed several data-centric applications for extracting, transforming, loading and visualising mostly financial information. I'm a generalist with a broad range of technologies under my belt with a strong core in Python, SQL and data. I've worked in many different countries (Poland, Switzerland, China, US, UK) and I have excellent communication and presentaion skills.
+Over the years I've developed several data-centric applications for extracting, transforming, loading and visualising financial information. I'm a generalist with a broad range of technologies under my belt with a strong core in Python, SQL and data. I've worked in many different countries (Poland, Switzerland, China, US, UK) and I have excellent communication and presentation skills.
 
 My philosophy and mindset revolves around the following concepts:
 
@@ -66,7 +66,7 @@ My philosophy and mindset revolves around the following concepts:
 
 ## 📤 Projects
 
-- Prototype of Excel Add-In which allows users on two separate machines to share, transforma and automate data sharing directly within Excel suite (`python`, `c#`)
+- Prototype of Excel Add-In which allows users on two separate machines to share, transform and automate data sharing directly within Excel suite (`python`, `c#`)
 - Multiple ETL and automation scripts for financial reporting (`python`, `sql`, `pandas`)
 - Django-based application for visualisation of financial reports (`python`, `django`, `javascript`, `d3.js`)
 - Migration of `VBA` financial reporting scripts to `python`
