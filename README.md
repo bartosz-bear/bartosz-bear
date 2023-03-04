@@ -7,7 +7,7 @@
 
 <div align="center">
 
-|<div style="width:180px">Proficiency</div>| <div style="width:180px">Technology</div>|
+|<div style="width:154px">Proficiency</div>| <div style="width:227px">Technology</div>|
 |:-------------------------- |:--------------------------|
 | ⭐⭐⭐⭐ | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | ⭐⭐⭐ | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-| Proficiency  | Technology   |
+|<div style="width:154px">Proficiency</div>| <div style="width:227px">Technology</div>|
 |--------------|--------------|
 | ⭐⭐⭐⭐ | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 | ⭐⭐⭐ | ![Bloomberg Terminal](https://img.shields.io/badge/bloomberg_terminal-%23E34F26.svg?style=for-the-badge&logo=badge&logoColor=white)|
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-| Category  | Tool   |
+|<div style="width:154px">Category</div>| <div style="width:227px">Tool</div>   |
 |--------------|--------------|
 | IDE  | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | Shell | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
@@ -52,9 +52,9 @@
 | Documentation | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   |
 | OS | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  |(N/A)           
 
-<div align="center">
+</div>
 
-## Projects
+## 📤 Projects
 
 
 
