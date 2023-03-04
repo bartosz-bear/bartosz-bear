@@ -1,11 +1,9 @@
 <h1>Welcome to my profile, traveler! 👋</h1>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008F11&size=32&repeat=false&center=true&vCenter=true&width=1400&lines=I+am+Bartosz+Piechnik,+Python+and+SQL+Data+Developer!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008F11&size=32&repeat=false&duration=4000&pause=1&multiline=true&width=1500&height=250&lines=I+am+Bartosz+Piechnik,+Python+and+SQL+Data+Developer!;Over+the+years+I+have+developed+several;+data-centric+applications+for+processing+of+financial+information.;I'm+a+generalist+with+a+broad+range+of+technologies+under+my+belt;and+a+strong+core+in+Python+and+data.;I+have+worked+with+international+teams+in+Poland,+Switzerland,+China+and+US.;)](https://git.io/typing-svg)
 
-
-
-## Core Technology
+## ⚡ Core Technology
 
 <div align="center">
 
@@ -24,7 +22,7 @@
 
 </div>
 
-## Supplementary Technology
+## 🚀 Supplementary Technology
 
 <div align="center">
 
@@ -40,7 +38,7 @@
 
 </div>
 
-## Development Stack
+## ⚙ Development Stack
 
 <div align="center">
 
@@ -55,3 +53,8 @@
 | OS | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  |(N/A)           
 
 <div align="center">
+
+## Projects
+
+
+
