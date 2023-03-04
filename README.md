@@ -3,9 +3,11 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008F11&size=32&repeat=false&center=true&vCenter=true&width=1400&lines=I+am+Bartosz+Piechnik,+Python+and+SQL+Data+Developer!;)](https://git.io/typing-svg)
 
+
+
 ## Core Technology
 
-<center>
+<div align="center">
 
 |<div style="width:180px">Proficiency</div>| <div style="width:180px">Technology</div>|
 |:-------------------------- |:--------------------------|
@@ -19,9 +21,11 @@
 | ⭐⭐ | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 | ⭐⭐ | ![DS&A](https://img.shields.io/badge/ds&a-%23092E20.svg?style=for-the-badge&logo=badge&logoColor=white)|
 
-</center>
+</div>
 
 ## Supplementary Technology
+
+<div align="center">
 
 | Proficiency  | Technology   |
 |--------------|--------------|
@@ -33,6 +37,8 @@
 | ⭐⭐ | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
 | ⭐⭐ | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) |
 | ⭐ | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)|
+
+</div>
 
 ## Stack
 
