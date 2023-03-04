@@ -1,7 +1,7 @@
-<h1>Welcome, traveler! 👋</h1>
+<h1>Welcome to my profile, traveler! 👋</h1>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF41&center=true&vCenter=true&width=1000&lines=I+am+Bartosz+Piechnik,+Python+and+SQL+Data+Developer,+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008F11&size=32&repeat=false&center=true&vCenter=true&width=1400&lines=I+am+Bartosz+Piechnik,+Python+and+SQL+Data+Developer!;)](https://git.io/typing-svg)
 
 ## Core Technology
 
