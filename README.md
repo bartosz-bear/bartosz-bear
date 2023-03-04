@@ -1,13 +1,15 @@
 <h1>Welcome, traveler! 👋</h1>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=I+am+Bartosz+Piechnik,+Python+and+SQL+Data+Developer,+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF41&center=true&vCenter=true&width=1000&lines=I+am+Bartosz+Piechnik,+Python+and+SQL+Data+Developer,+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
 
 ## Core Technology
 
-| Proficiency  | Technology   |
-|--------------|--------------|
-| ⭐⭐⭐⭐    | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+<center>
+
+|<div style="width:180px">Proficiency</div>| <div style="width:180px">Technology</div>|
+|:-------------------------- |:--------------------------|
+| ⭐⭐⭐⭐                 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | ⭐⭐⭐ | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | ⭐⭐⭐ | ![SQL](https://img.shields.io/badge/sql-%2323ffffff.svg?style=for-the-badge&logo=badge&logoColor=white)|
 | ⭐⭐⭐ | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
@@ -16,6 +18,8 @@
 | ⭐⭐ | ![DevOps](https://img.shields.io/badge/devops-%23007ACC.svg?style=for-the-badge&logo=git&logoColor=white) |
 | ⭐⭐ | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 | ⭐⭐ | ![DS&A](https://img.shields.io/badge/ds&a-%23092E20.svg?style=for-the-badge&logo=badge&logoColor=white)|
+
+</center>
 
 ## Supplementary Technology
 
