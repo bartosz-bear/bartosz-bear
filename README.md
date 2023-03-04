@@ -74,4 +74,21 @@ My philosophy and mindset revolves around the following concepts:
 
 ## 🏫 Courses and Workshops
 
-- Python for Data Science and Machine Learning Bootcamp (![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=Plastic&logo=Udemy&logoColor=white))
+<div align="center">
+
+|<div style="width:154px">Course</div>| <div style="width:227px">Course Provider</div>   |
+|--------------|--------------|
+| Python for Data Science and Machine Learning Bootcamp  | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=Plastic&logo=Udemy&logoColor=white) |
+| SQL and PostgreSQL: Complete Developer's Guide | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=Plastic&logo=Udemy&logoColor=white) |
+| Principles of Computing (Part 1) | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=Plastic&logo=Coursera&logoColor=white) |
+| An Introduction to Interactive Programming in Python | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=Plastic&logo=Coursera&logoColor=white) |
+| JavaScript Algorithms & Data Structures | ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=Plastic&logo=freecodecamp&logoColor=green) |
+| Programming with C# | ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=Plastic&logo=edX&logoColor=white) |
+| Introduction to SQL | ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=Plastic&logo=datacamp&logoColor=03E860) |
+| Introduction to Linux | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=Plastic&logo=Coursera&logoColor=white) | (N/A)          
+
+</div>
+
+## 📧 Contact
+
+I'm for hire. Contact me at bartosz.artur.piechnik@gmail.com
