@@ -23,6 +23,7 @@ My philosophy and mindset revolves around the following concepts:
 | ⭐⭐⭐ | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | ⭐⭐⭐ | ![SQL](https://img.shields.io/badge/sql-%2323ffffff.svg?style=for-the-badge&logo=badge&logoColor=white)|
 | ⭐⭐⭐ | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ⭐⭐⭐ | ![Scrapy](https://img.shields.io/badge/scrapy-%2323ffffff.svg?style=for-the-badge&logo=badge&logoColor=white)|
 | ⭐⭐⭐ | ![seaborn](https://img.shields.io/badge/seaborn-%23239120.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
 | ⭐⭐ | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
 | ⭐⭐ | ![DevOps](https://img.shields.io/badge/devops-%23007ACC.svg?style=for-the-badge&logo=git&logoColor=white) |
@@ -66,11 +67,11 @@ My philosophy and mindset revolves around the following concepts:
 
 ## 📤 Projects
 
+- Django-based application for scraping, storing and visualisation of multi-source data (`python`, `django`, `postgreSQL`, `Azure`, `Scrapy`, `Splash`, `BeautifulSoup`)
 - Prototype of Excel Add-In which allows users on two separate machines to share, transform and automate data sharing directly within Excel suite (`python`, `c#`)
 - Multiple ETL and automation scripts for financial reporting (`python`, `sql`, `pandas`)
 - Django-based application for visualisation of financial reports (`python`, `django`, `javascript`, `d3.js`)
 - Migration of `VBA` financial reporting scripts to `python`
-- Django-based application for scraping, storing and visualisation of multi-source data (`python`, `django`, `postgreSQL`, `Azure`, `Scrapy`, `Splash`, `BeautifulSoup`)
 
 ## 🏫 Courses and Workshops
 
