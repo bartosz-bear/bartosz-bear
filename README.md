@@ -70,7 +70,7 @@ My philosophy and mindset revolves around the following concepts:
 - Multiple ETL and automation scripts for financial reporting (`python`, `sql`, `pandas`)
 - Django-based application for visualisation of financial reports (`python`, `django`, `javascript`, `d3.js`)
 - Migration of `VBA` financial reporting scripts to `python`
-- Django-based application for scraping, storing and visualisation of multi-source data (`python`, `django`, `postgreSQL`, `BeautifulSoup`)
+- Django-based application for scraping, storing and visualisation of multi-source data (`python`, `django`, `postgreSQL`, `Azure`, `Scrapy`, `Splash`, `BeautifulSoup`)
 
 ## 🏫 Courses and Workshops
 
@@ -78,6 +78,7 @@ My philosophy and mindset revolves around the following concepts:
 
 |<div style="width:154px">Course</div>| <div style="width:227px">Course Provider</div>   |
 |--------------|--------------|
+| Modern Web Scraping with Python using Scrapy Splash Selenium | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=Plastic&logo=Udemy&logoColor=white) |
 | Python for Data Science and Machine Learning Bootcamp  | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=Plastic&logo=Udemy&logoColor=white) |
 | SQL and PostgreSQL: Complete Developer's Guide | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=Plastic&logo=Udemy&logoColor=white) |
 | Principles of Computing (Part 1) | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=Plastic&logo=Coursera&logoColor=white) |
