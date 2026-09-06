@@ -1,10 +1,3 @@
-<h1>Welcome to my profile, traveler! 👋</h1>
-
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23008F11&size=32&repeat=false&duration=4000&width=1500&lines=I+am+Bartosz+Piechnik,+Python+and+SQL+Data+Developer.;)](https://git.io/typing-svg)
-
-## ⚡ Profile
-
 Over the years I've developed several data-centric applications for extracting, transforming, loading and visualising financial information. I'm a generalist with a broad range of technologies under my belt with a strong core in Python, SQL and data. I've worked in many different countries (Poland, Switzerland, China, US, UK) and I have excellent communication and presentation skills.
 
 My philosophy and mindset revolves around the following concepts:
